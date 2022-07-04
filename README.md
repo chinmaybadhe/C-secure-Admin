@@ -33,7 +33,7 @@ The new drivers doesnot even know the stop of children. So sometimes they skip a
 for the above problems we came up with three APPs(android) and One Raspberry-pi interface.
 * [The Admin APP]: 
 * The Parents' APP:
-* [The BusDrivers' APP]:(https://github.com/chinmaybadhe/CSecure)
+* The BusDrivers' APP:(https://github.com/chinmaybadhe/CSecure)
 * [Raspberry pi interface](https://github.com/vishalsingh9423/C-secure/blob/master/spifile.py)
 
 
